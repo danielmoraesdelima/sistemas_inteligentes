@@ -1,0 +1,27 @@
+O que é o exemplo
+
+O que é o Target
+
+Quais são as Features
+
+Dataset
+
+Cliente
+Contrato
+Produto/Serviço
+MTR
+Data (ANO e MES)
+Rota
+Posto
+Veiculo
+Motorista
+Ajudante1
+Ajudante2
+Ajudante3
+Status
+Unidade de Medida
+Quantidade
+Valor Unt.
+Valor Total
+
+Previsão de Vendas por região geográfica.
